@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="metropolitan_array">
+        <item>Durban</item>
+        <item>Cape Town</item>
+        <item>Johannesburg</item>
+        <item>Pretoria</item>
+        <item>Port Elizabeth</item>
+        <item>Germiston</item>
+        <item>East London</item>
+        <item>Bloemfontein</item>
+    </string-array>
+
+</resources>
